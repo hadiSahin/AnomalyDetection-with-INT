@@ -22,3 +22,9 @@ My flow data. It contains 43584 normal data and 1341 abnormal data.
 ***
 
 Running example) ./rnn.py -f flow_data_list.pkl
+
+Oct 19, 2023
+-Hadi
+
+Running example) ./rnn_v2.py -f flow_data_list.pkl
+
